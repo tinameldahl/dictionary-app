@@ -1,0 +1,8 @@
+ function handleResponse(response){
+        // Gets all the data
+        console.log(response.data[0]);
+
+        // Example, gets the definition of the word
+        console.log(response.data[0].meanings[0].definitions[0].definition);
+        
+    }
