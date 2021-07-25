@@ -1,5 +1,6 @@
 .Meaning h3 {
     font-size: 20px;
+    font-weight: bold;
 }
 
 .Meaning h3:first-letter{
