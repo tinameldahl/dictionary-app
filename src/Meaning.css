@@ -1,0 +1,12 @@
+.Meaning h3 {
+    font-size: 20px;
+}
+
+.Meaning h3:first-letter{
+    text-transform: uppercase;
+}
+
+.example:first-letter {
+    text-transform: uppercase;
+}
+

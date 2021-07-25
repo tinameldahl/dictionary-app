@@ -14,6 +14,7 @@ function App() {
         <Dictionary />
       </main>
       <footer className="App-footer">
+        <hr/>
         <small>
           Coded by Tina Meldahl
         </small>

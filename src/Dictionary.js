@@ -28,9 +28,12 @@ function Dictionary() {
 
     return (
         <div className="Dictionary">
+            
             <form onSubmit={search}>
                 <input type="search" onChange={handleKeywordChange} />
+                <input type="submit" value="Search"/>
             </form>
+            
             <Results results={results}/>
         </div>
     ) 
