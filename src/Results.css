@@ -4,6 +4,9 @@
 
 .Results h2 {
   padding:20px 0;
-
 }
 
+
+.Results h2:first-letter {
+  text-transform: capitalize;
+}
