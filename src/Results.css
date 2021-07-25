@@ -2,10 +2,6 @@
     text-align: left;
   }
 
-.Results h2 {
-  padding-top:20px;
-}
-
 
 .Results h2:first-letter {
   text-transform: capitalize;

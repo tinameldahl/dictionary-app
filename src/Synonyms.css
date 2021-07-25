@@ -1,3 +1,12 @@
-.synonym-title {
-    padding-bottom: -20px;
+.Synonyms {
+    margin:20px 0 0;
+    padding:0;
+
+}
+
+.Synonyms li {
+    display: inline-block;
+    padding-right:8px;
+    font-size: 14px;
+    line-height: 1;
 }

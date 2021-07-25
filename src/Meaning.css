@@ -11,3 +11,14 @@
     text-transform: uppercase;
 }
 
+.Meaning .definition {
+    color:black;
+    margin-top:10px;
+
+}
+
+.Meaning .example {
+    font-size: 16px;
+    opacity: 0.7;
+    font-style: italic;
+}
