@@ -28,7 +28,7 @@ function Dictionary() {
 
     return (
         <div className="Dictionary">
-            <h1>Dictionary</h1>
+            <h1>Dictionary 1.0</h1>
             <p>Ever wondered what a word means? Search here and find out!</p>
             <form onSubmit={search}>
                 <input type="search" onChange={handleKeywordChange} />
