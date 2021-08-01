@@ -16,7 +16,7 @@ function App() {
       <footer className="App-footer">
         <hr/>
         <small>
-          Coded by Tina Meldahl
+          Coded by Tina Meldahl - <a href="https://github.com/tinameldahl/dictionary-app" rel="noreferrer"  target="_blank">GitHub</a>
         </small>
       </footer>
       </div>
